@@ -15,6 +15,7 @@
   * [创世神](/tutorial/worldedit.md)
   * [风车核心](/tutorial/windmilltowncore.md)
   * [实用功能](/tutorial/utilities.md)
+  * [格式化消息](/tutorial/format.md)
  
 * 其他
   * [公告](/other/announcement.md)
