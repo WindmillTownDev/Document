@@ -1,10 +1,10 @@
 * 起步
   * [初次见面](/start/intro.md)
-  * [基础指令](/start/commands.md)
+  * [基础功能](/start/basics.md)
   * [服务器规则](/start/rules.md)
 
 * 介绍
-  * [服务器组成](/info/servers.md)
+  * [服务器群组](/info/servers.md)
   * [权限组](/info/perms.md)
   * [特色功能](/info/features.md)
   * [活动](/info/activities.md)
